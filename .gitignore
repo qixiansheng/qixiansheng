@@ -2,6 +2,6 @@
 Thumbs.db
 db.json
 *.log
-./qixiansheng/node_modules/
-./qixiansheng/public/
-./qixiansheng/.deploy*/
+node_modules/
+public/
+.deploy*/
